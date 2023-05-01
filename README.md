@@ -222,4 +222,11 @@ https://youtu.be/cUBGYtlFne8
 https://youtu.be/PrSWh0ebyCM
 
 
+Layouts and interiors
+https://youtu.be/IqV3-LVLbyU
+https://youtu.be/Cd4bw-BiaPM
+https://youtu.be/ecOUIdWRykg
+https://youtu.be/B_PRaIzavWU
+https://youtu.be/pT4Hwc2O3OA
+https://youtu.be/oA-uLPzMilU
 
