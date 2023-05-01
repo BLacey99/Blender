@@ -91,3 +91,135 @@ https://www.youtube.com/watch?v=5B244CYX1Tw&ab_channel=RyanKingArt
 
 
 https://www.google.com/search?q=hexagonal+wall+design&hl=en&source=hp&ei=rEVBZJmrLsCK0PEPq5OckAk&iflsig=AOEireoAAAAAZEFTvItc7wIvaw1F-OjaeZhFAkncy5AZ&ved=0ahUKEwiZsZ3Lz7j-AhVABTQIHasJB5IQ4dUDCAs&uact=5&oq=hexagonal+wall+design&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEIAEEAoyBwgAEIAEEAoyBggAEBYQHjIICAAQFhAeEAoyCAgAEBYQHhAKMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoRCC4QgAQQsQMQgwEQxwEQ0QM6CwguEIAEEMcBENEDOgsIABCABBCxAxCDAToOCC4QgAQQsQMQxwEQ0QM6DgguEMcBELEDENEDEIAEOgUILhCABDoICAAQgAQQsQM6DgguEIoFELEDEMcBENEDOgsILhCABBDHARCvAToFCAAQgAQ6CwgAEIoFELEDEIMBOg4ILhCKBRCxAxCDARDUAjoICC4QgAQQ1AI6DQgAEIAEELEDEIMBEAo6DQguEIAEELEDEIMBEAo6CggAEIAEELEDEAo6CwguEIAEELEDEIMBOggIABCKBRCGA1AAWOYcYNcdaAJwAHgBgAGiAYgB6g6SAQQxOS40mAEAoAEB&sclient=gws-wiz
+
+
+
+
+
+COUCH
+https://www.youtube.com/watch?v=d8rTZ1-q_Eo&ab_channel=Jopeme
+https://youtu.be/d8rTZ1-q_Eo
+
+More couches
+https://youtu.be/9CGtgQ5QF_8
+https://youtu.be/i91792kBwXA
+https://youtu.be/kgcvRGEZbAg
+https://www.youtube.com/watch?v=SeHJcOwLfnc&ab_channel=NijatIbrahimli
+https://youtu.be/PgjXDCkGlzE
+https://youtu.be/d8rTZ1-q_Eo
+
+Pilows
+https://youtu.be/n9CU7FGmjUM
+
+Chairs
+https://youtu.be/a-Bz27R6ZDk
+https://youtu.be/5FBmQyqMopw
+https://youtu.be/BkwV5I4uR3w
+
+
+Table
+https://youtu.be/2gfPCPqBpYM
+https://youtu.be/2yfKK0TLv8Q
+https://youtu.be/01ER3hXGhDE
+https://www.youtube.com/watch?v=nS4FJTUwBgQ&ab_channel=ThilakanathanStudios
+https://youtu.be/q-a-zmCEXqY
+https://youtu.be/IELyCSgpyGA
+https://youtu.be/OBH4LwHfyhQ
+
+
+Desk
+https://youtu.be/p6WoN6JBZu4
+
+Rooms
+https://youtu.be/8Gx5eNLsAdw
+https://youtu.be/TdGNXXsQoj4
+https://youtu.be/yvz8NT-ndL4
+https://youtu.be/z02hfe4QYTM
+
+Interior design
+https://youtu.be/zzqvGTb6xQI
+https://youtu.be/HnTt-yIKygM
+
+Floorplan bittrace to avoid having to hand model walls
+https://youtu.be/mq63GWbgWdM
+
+TV
+https://youtu.be/ohgBLSQ7pJY
+
+
+Storage container
+https://youtu.be/BOvaPxKFkzA
+https://youtu.be/t_C447Ikj-g
+
+Procedural generation
+https://youtu.be/m2FflCg6BTE
+
+Folded edges for cushions and upholstery
+https://youtu.be/8D8F0BpeZvQ
+
+Customized indents on furniture
+https://youtu.be/I7-z1bi_Epc
+https://youtu.be/F_bpS75953A
+https://youtu.be/CtLNsNBW_vE
+https://youtu.be/5FBmQyqMopw
+https://youtu.be/LxRl6K-S5T4
+https://youtu.be/W57I40wva5w
+https://youtu.be/cw-uBon_DZo
+
+Plants
+https://youtu.be/UUsT8-fuovg
+https://youtu.be/JoW1XWi4Lw0
+https://youtu.be/pCRFQ_vkx44
+https://youtu.be/ftVnP65K7lQ
+
+
+Level/environment design
+https://www.youtube.com/@WorldofLevelDesign
+https://youtu.be/8t0Q5fYT2ws
+
+
+Look at common measurements for things like doorframes, height off ground for
+windows, pictures, etc.
+
+
+Cool design tricks
+https://youtu.be/cVDvNbHaju8
+https://youtu.be/MB4HmN4w_3k
+https://youtu.be/rTfznZTaWTU
+https://youtu.be/Sgf_wZBr5gM
+https://youtu.be/RJ6zpJJ_6Hs
+https://www.youtube.com/@cg_cookie/videos
+https://youtu.be/1vc62llqnW8
+
+
+
+references and art board tools
+https://unsplash.com/
+https://www.pureref.com/
+https://youtu.be/oE_t_y-qdIM
+
+Learn compositing
+https://youtu.be/mISW4jLc4aE
+
+Grips
+https://youtu.be/QcM8WbxWipM
+https://youtu.be/6ZkffovEB9k
+
+
+Cities
+https://youtu.be/NW_djQS_N8U
+https://youtu.be/0Ch7qlc0fE8
+https://youtu.be/22bqYI2F8rw
+
+
+Clothing
+https://youtu.be/DCCg9ZpxAM0
+https://youtu.be/IWaGNZwszcU
+https://youtu.be/EHUzNC-wKf8
+https://youtu.be/B26v9Ra5dSs
+https://youtu.be/X_2VlE3pL4c
+https://youtu.be/cUBGYtlFne8
+https://youtu.be/PrSWh0ebyCM
+
+
+
