@@ -279,3 +279,6 @@ https://youtu.be/nAus-J-DzcE
 German tutorials (good for listening)
 https://youtu.be/lEaGkWghBn4
 https://youtu.be/BRFE6weUVNo
+
+Rolling animations
+https://youtu.be/r8j4TsB6t_E
