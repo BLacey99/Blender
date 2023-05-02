@@ -108,6 +108,11 @@ https://www.youtube.com/watch?v=SeHJcOwLfnc&ab_channel=NijatIbrahimli
 https://youtu.be/PgjXDCkGlzE
 https://youtu.be/d8rTZ1-q_Eo
 
+
+
+Maybe use to curve couch on corners?
+https://youtu.be/AyuSN4XSNEA DEFORM Modifier
+
 Pilows
 https://youtu.be/n9CU7FGmjUM
 
@@ -176,7 +181,9 @@ https://youtu.be/ftVnP65K7lQ
 Level/environment design
 https://www.youtube.com/@WorldofLevelDesign
 https://youtu.be/8t0Q5fYT2ws
+https://youtu.be/nN-0XKz3HT4
 
+https://youtu.be/G3RGQSdoKdk FORKLIFT
 
 Look at common measurements for things like doorframes, height off ground for
 windows, pictures, etc.
@@ -233,3 +240,40 @@ Lighting
 https://youtu.be/oA-uLPzMilU
 https://youtu.be/GQDs1Pd9Qtk
 https://youtu.be/MEEVlKC3yAI
+
+
+Cloth filter (VERY GOOD)
+https://youtu.be/hpFaDiTDZgc (BEST ONE)(Consider making 2-4 hooks on corners and pulling corners as needed)
+https://youtu.be/Y5J5os8P4jg
+https://youtu.be/PF9h2panbSA
+
+
+Curves to meshes
+https://blender.stackexchange.com/questions/5623/what-is-the-fastest-way-to-create-a-curved-plane
+
+
+Trees
+https://youtu.be/G4VEHi3dI6w  (Very cool for rendered scenes)
+https://youtu.be/dt0JJwwbfwM
+https://youtu.be/72LPW4S8bns
+
+https://youtu.be/h6eYY6oQx44 Fast trees
+https://youtu.be/eBPTlK-8FPw
+
+Caves
+https://youtu.be/WdgM4jOfzTE
+https://youtu.be/0W7UtqKCBLs
+https://youtu.be/nYLWUAm2vqs
+
+Procedural fences
+https://youtu.be/IFVZd3UttOU
+
+
+Render Ideas
+https://youtu.be/nAus-J-DzcE
+
+
+
+German tutorials (good for listening)
+https://youtu.be/lEaGkWghBn4
+https://youtu.be/BRFE6weUVNo
