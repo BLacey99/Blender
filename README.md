@@ -230,6 +230,7 @@ https://youtu.be/PrSWh0ebyCM
 
 https://youtu.be/SBnSZSQXBBE
 
+https://youtu.be/K9uDM1lHm28 -- STRAPS
 
 Layouts and interiors
 https://youtu.be/IqV3-LVLbyU
