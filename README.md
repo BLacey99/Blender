@@ -234,6 +234,8 @@ https://youtu.be/fV2Dr5F445w -- Kitbash
 
 https://youtu.be/K9uDM1lHm28 -- STRAPS
 
+https://youtu.be/r_5yK84VNew -- Another good video on clothes
+
 Layouts and interiors
 https://youtu.be/IqV3-LVLbyU
 https://youtu.be/Cd4bw-BiaPM
