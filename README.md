@@ -40,6 +40,12 @@ and is contiguous will touch on the UV map
 
 Live unwrap for showing updated map when marking seams
 
+<h3> Rigging </h3>
+Wherever you want the model to be able to bend is where the ball of a bone should be.
+https://blenderartists.org/t/wiggle-bones-a-jiggle-bone-implementation-for-2-8/1154726 (jiggle bones)
+https://github.com/artellblender/springbones
+
+
 <h2> General </h2>
 <div>
 https://www.youtube.com/watch?v=AZhobrVrl4Y&ab_channel=intranetgirl
@@ -300,3 +306,16 @@ https://youtu.be/BRFE6weUVNo
 
 <h2> Rolling animations </h2>
 https://youtu.be/r8j4TsB6t_E
+  
+  <h2> Interior Design </h2>
+  https://youtu.be/ogvaPi4D7qE
+  https://youtu.be/RxWePPbg5MI
+  https://youtu.be/wc9Pdjv14NM
+  https://youtu.be/ubYUOAygMTw
+  https://youtu.be/qUPB5rRrXTQ
+  https://www.youtube.com/@BalanceRhythm
+  https://youtu.be/ngm3BDkCNTg
+  https://www.youtube.com/@reynardlowell
+  https://youtu.be/oA-uLPzMilU
+  https://www.youtube.com/watch?v=qa8E0O0lwSQ&ab_channel=Balance%2BRhythm
+  
