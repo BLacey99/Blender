@@ -42,18 +42,18 @@ Live unwrap for showing updated map when marking seams
 
 <h2> General </h2>
 <div>
-https://www.youtube.com/watch?v=AZhobrVrl4Y&ab_channel=intranetgirl \n
+https://www.youtube.com/watch?v=AZhobrVrl4Y&ab_channel=intranetgirl
+  
+https://www.youtube.com/watch?v=igKR_LKnZkk&ab_channel=Ducky3D  
 
-https://www.youtube.com/watch?v=igKR_LKnZkk&ab_channel=Ducky3D  \n
-
-https://www.youtube.com/watch?v=cS6B5PAzlWI&ab_channel=RoyalSkies \n
+https://www.youtube.com/watch?v=cS6B5PAzlWI&ab_channel=RoyalSkies 
 
 
-https://www.youtube.com/watch?v=BcKzFEVXExw&ab_channel=JoshGambrell \n
+https://www.youtube.com/watch?v=BcKzFEVXExw&ab_channel=JoshGambrell 
 
-https://www.youtube.com/watch?v=WKb3OYi6UMk&ab_channel=JoshGambrell \n
+https://www.youtube.com/watch?v=WKb3OYi6UMk&ab_channel=JoshGambrell 
 
-https://www.youtube.com/watch?v=xFvW6kfClg0&ab_channel=JoshGambrell \n
+https://www.youtube.com/watch?v=xFvW6kfClg0&ab_channel=JoshGambrell
 
 https://www.youtube.com/watch?v=6OsqU5UU354&ab_channel=JoshGambrell
 
@@ -74,19 +74,24 @@ https://www.pinterest.com/nb1777/sci-fi-interiors/
 https://www.decorilla.com/online-decorating/interior-design-styles-101/
 </div>
 
-SEAMS / UV Editing 
+<h2> SEAMS / UV Editing </h2>
+<div>
 https://www.youtube.com/watch?v=ZUgyjUo5vMM&ab_channel=BlenderSecrets
+</div>
 
 
-
-UV Straightening
+<h2> UV Straightening </h2>
+<div>
 https://www.youtube.com/watch?v=LVy0xxnDV_A&ab_channel=TunnelvizionTV
+
 https://www.youtube.com/watch?v=UXHjoUkDyug&ab_channel=Milo
+</div>
 
 
-Nodes
+<h2> Nodes </h2>
+<div>
 https://www.youtube.com/watch?v=5B244CYX1Tw&ab_channel=RyanKingArt
-
+</div>
 
 
 
