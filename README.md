@@ -319,3 +319,6 @@ https://youtu.be/r8j4TsB6t_E
   https://youtu.be/oA-uLPzMilU
   https://www.youtube.com/watch?v=qa8E0O0lwSQ&ab_channel=Balance%2BRhythm
   
+  Accent walls - First wall that comes into sight when entering a room, usually the wall a bed is against.
+  Wood slat walls / Geometric walls
+  
