@@ -103,11 +103,11 @@ https://www.google.com/search?q=hexagonal+wall+design&hl=en&source=hp&ei=rEVBZJm
 
 
 
-COUCH
+<h2> COUCH </h2>
 https://www.youtube.com/watch?v=d8rTZ1-q_Eo&ab_channel=Jopeme
 https://youtu.be/d8rTZ1-q_Eo
 
-More couches
+<h2> More couches
 https://youtu.be/9CGtgQ5QF_8
 https://youtu.be/i91792kBwXA
 https://youtu.be/kgcvRGEZbAg
@@ -117,19 +117,19 @@ https://youtu.be/d8rTZ1-q_Eo
 
 
 
-Maybe use to curve couch on corners?
+<h2> Maybe use to curve couch on corners?
 https://youtu.be/AyuSN4XSNEA DEFORM Modifier
 
-Pilows
+<h2> Pilows </h2>
 https://youtu.be/n9CU7FGmjUM
 
-Chairs
+<h2> Chairs </h2>
 https://youtu.be/a-Bz27R6ZDk
 https://youtu.be/5FBmQyqMopw
 https://youtu.be/BkwV5I4uR3w
 
 
-Table
+<h2> Table </h2>
 https://youtu.be/2gfPCPqBpYM
 https://youtu.be/2yfKK0TLv8Q
 https://youtu.be/01ER3hXGhDE
@@ -139,37 +139,37 @@ https://youtu.be/IELyCSgpyGA
 https://youtu.be/OBH4LwHfyhQ
 
 
-Desk
+<h2> Desk </h2>
 https://youtu.be/p6WoN6JBZu4
 
-Rooms
+<h2> Rooms </h2>
 https://youtu.be/8Gx5eNLsAdw
 https://youtu.be/TdGNXXsQoj4
 https://youtu.be/yvz8NT-ndL4
 https://youtu.be/z02hfe4QYTM
 
-Interior design
+<h2> Interior design </h2>
 https://youtu.be/zzqvGTb6xQI
 https://youtu.be/HnTt-yIKygM
 
-Floorplan bittrace to avoid having to hand model walls
+<h2> Floorplan bittrace to avoid having to hand model walls </h2>
 https://youtu.be/mq63GWbgWdM
 
-TV
+<h2> TV </h2>
 https://youtu.be/ohgBLSQ7pJY
 
 
-Storage container
+<h2> Storage container </h2>
 https://youtu.be/BOvaPxKFkzA
 https://youtu.be/t_C447Ikj-g
 
-Procedural generation
+<h2> Procedural generation </h2>
 https://youtu.be/m2FflCg6BTE
 
-Folded edges for cushions and upholstery
+<h2> Folded edges for cushions and upholstery </h2>
 https://youtu.be/8D8F0BpeZvQ
 
-Customized indents on furniture
+<h2> Customized indents on furniture
 https://youtu.be/I7-z1bi_Epc
 https://youtu.be/F_bpS75953A
 https://youtu.be/CtLNsNBW_vE
@@ -178,14 +178,14 @@ https://youtu.be/LxRl6K-S5T4
 https://youtu.be/W57I40wva5w
 https://youtu.be/cw-uBon_DZo
 
-Plants
+<h2> Plants </h2>
 https://youtu.be/UUsT8-fuovg
 https://youtu.be/JoW1XWi4Lw0
 https://youtu.be/pCRFQ_vkx44
 https://youtu.be/ftVnP65K7lQ
 
 
-Level/environment design
+<h2> Level/environment design </h2>
 https://www.youtube.com/@WorldofLevelDesign
 https://youtu.be/8t0Q5fYT2ws
 https://youtu.be/nN-0XKz3HT4
@@ -196,7 +196,7 @@ Look at common measurements for things like doorframes, height off ground for
 windows, pictures, etc.
 
 
-Cool design tricks
+<h2> Cool design tricks </h2>
 https://youtu.be/cVDvNbHaju8
 https://youtu.be/MB4HmN4w_3k
 https://youtu.be/rTfznZTaWTU
@@ -207,26 +207,26 @@ https://youtu.be/1vc62llqnW8
 
 
 
-references and art board tools
+<h2> references and art board tools </h2>
 https://unsplash.com/
 https://www.pureref.com/
 https://youtu.be/oE_t_y-qdIM
 
-Learn compositing
+<h2> Learn compositing </h2>
 https://youtu.be/mISW4jLc4aE
 
-Grips
+<h2> Grips </h2>
 https://youtu.be/QcM8WbxWipM
 https://youtu.be/6ZkffovEB9k
 
 
-Cities
+<h2> Cities </h2>
 https://youtu.be/NW_djQS_N8U
 https://youtu.be/0Ch7qlc0fE8
 https://youtu.be/22bqYI2F8rw
 
 
-Clothing
+<h2> Clothing </h2>
 https://youtu.be/DCCg9ZpxAM0
 https://youtu.be/IWaGNZwszcU
 https://youtu.be/EHUzNC-wKf8
@@ -249,30 +249,30 @@ https://youtu.be/V7sXzQvPBiM -- GOES OVER HOODIE AND HOOD FOR IT
 
 https://youtu.be/dZjRofHYhSQ
 
-Layouts and interiors
+<h2> Layouts and interiors </h2>
 https://youtu.be/IqV3-LVLbyU
 https://youtu.be/Cd4bw-BiaPM
 https://youtu.be/ecOUIdWRykg
 https://youtu.be/B_PRaIzavWU
 https://youtu.be/pT4Hwc2O3OA
 
-Lighting
+<h2> Lighting </h2>
 https://youtu.be/oA-uLPzMilU
 https://youtu.be/GQDs1Pd9Qtk
 https://youtu.be/MEEVlKC3yAI
 
 
-Cloth filter (VERY GOOD)
+<h2> Cloth filter (VERY GOOD) </h2>
 https://youtu.be/hpFaDiTDZgc (BEST ONE)(Consider making 2-4 hooks on corners and pulling corners as needed)
 https://youtu.be/Y5J5os8P4jg
 https://youtu.be/PF9h2panbSA
 
 
-Curves to meshes
+<h2> Curves to meshes </h2>
 https://blender.stackexchange.com/questions/5623/what-is-the-fastest-way-to-create-a-curved-plane
 
 
-Trees
+<h2> Trees </h2>
 https://youtu.be/G4VEHi3dI6w  (Very cool for rendered scenes)
 https://youtu.be/dt0JJwwbfwM
 https://youtu.be/72LPW4S8bns
@@ -280,23 +280,23 @@ https://youtu.be/72LPW4S8bns
 https://youtu.be/h6eYY6oQx44 Fast trees
 https://youtu.be/eBPTlK-8FPw
 
-Caves
+<h2> Caves </h2>
 https://youtu.be/WdgM4jOfzTE
 https://youtu.be/0W7UtqKCBLs
 https://youtu.be/nYLWUAm2vqs
 
-Procedural fences
+<h2> Procedural fences </h2>
 https://youtu.be/IFVZd3UttOU
 
 
-Render Ideas
+<h2> Render Ideas </h2>
 https://youtu.be/nAus-J-DzcE
 
 
 
-German tutorials (good for listening)
+<h2> German tutorials (good for listening) </h2>
 https://youtu.be/lEaGkWghBn4
 https://youtu.be/BRFE6weUVNo
 
-Rolling animations
+<h2> Rolling animations </h2>
 https://youtu.be/r8j4TsB6t_E
