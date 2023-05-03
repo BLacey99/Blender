@@ -40,18 +40,20 @@ and is contiguous will touch on the UV map
 
 Live unwrap for showing updated map when marking seams
 
-https://www.youtube.com/watch?v=AZhobrVrl4Y&ab_channel=intranetgirl
+<h2> General </h2>
+<div>
+https://www.youtube.com/watch?v=AZhobrVrl4Y&ab_channel=intranetgirl \n
 
-https://www.youtube.com/watch?v=igKR_LKnZkk&ab_channel=Ducky3D
+https://www.youtube.com/watch?v=igKR_LKnZkk&ab_channel=Ducky3D  \n
 
-https://www.youtube.com/watch?v=cS6B5PAzlWI&ab_channel=RoyalSkies
+https://www.youtube.com/watch?v=cS6B5PAzlWI&ab_channel=RoyalSkies \n
 
 
-https://www.youtube.com/watch?v=BcKzFEVXExw&ab_channel=JoshGambrell
+https://www.youtube.com/watch?v=BcKzFEVXExw&ab_channel=JoshGambrell \n
 
-https://www.youtube.com/watch?v=WKb3OYi6UMk&ab_channel=JoshGambrell
+https://www.youtube.com/watch?v=WKb3OYi6UMk&ab_channel=JoshGambrell \n
 
-https://www.youtube.com/watch?v=xFvW6kfClg0&ab_channel=JoshGambrell
+https://www.youtube.com/watch?v=xFvW6kfClg0&ab_channel=JoshGambrell \n
 
 https://www.youtube.com/watch?v=6OsqU5UU354&ab_channel=JoshGambrell
 
@@ -70,7 +72,7 @@ https://www.pinterest.com/blented/interiors-sci-fi/
 https://www.pinterest.com/nb1777/sci-fi-interiors/
 
 https://www.decorilla.com/online-decorating/interior-design-styles-101/
-
+</div>
 
 SEAMS / UV Editing 
 https://www.youtube.com/watch?v=ZUgyjUo5vMM&ab_channel=BlenderSecrets
@@ -235,6 +237,12 @@ https://youtu.be/fV2Dr5F445w -- Kitbash
 https://youtu.be/K9uDM1lHm28 -- STRAPS
 
 https://youtu.be/r_5yK84VNew -- Another good video on clothes
+
+https://youtu.be/kEda27ix-S8
+
+https://youtu.be/V7sXzQvPBiM -- GOES OVER HOODIE AND HOOD FOR IT
+
+https://youtu.be/dZjRofHYhSQ
 
 Layouts and interiors
 https://youtu.be/IqV3-LVLbyU
