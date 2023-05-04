@@ -300,9 +300,6 @@ https://youtu.be/nAus-J-DzcE
 
 
 
-<h2> German tutorials (good for listening) </h2>
-https://youtu.be/lEaGkWghBn4
-https://youtu.be/BRFE6weUVNo
 
 <h2> Rolling animations </h2>
 https://youtu.be/r8j4TsB6t_E
