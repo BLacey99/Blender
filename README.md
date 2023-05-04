@@ -120,7 +120,11 @@ https://youtu.be/kgcvRGEZbAg
 https://www.youtube.com/watch?v=SeHJcOwLfnc&ab_channel=NijatIbrahimli
 https://youtu.be/PgjXDCkGlzE
 https://youtu.be/d8rTZ1-q_Eo
+https://youtu.be/CO0Mhu3QSDc
 
+<h2> Cushions and curved surfaces w/ curve modifier </h2>
+https://youtu.be/jHl_ySBxluU
+https://youtu.be/2p5wh8gtt9c (curves)
 
 
 <h2> Maybe use to curve couch on corners?
