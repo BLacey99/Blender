@@ -45,6 +45,8 @@ Wherever you want the model to be able to bend is where the ball of a bone shoul
 https://blenderartists.org/t/wiggle-bones-a-jiggle-bone-implementation-for-2-8/1154726 (jiggle bones)
 https://github.com/artellblender/springbones
 
+<h2> General Organics and sculpts </h2>
+https://youtu.be/sTY7xTWB6-o
 
 <h2> General </h2>
 <div>
@@ -250,6 +252,8 @@ https://youtu.be/SBnSZSQXBBE
 https://youtu.be/fV2Dr5F445w -- Kitbash
 
 https://youtu.be/K9uDM1lHm28 -- STRAPS
+  
+https://youtu.be/twH2KUmCcMY -- Buckles (and also a possible method for straps from curves with skin/solidify
 
 https://youtu.be/r_5yK84VNew -- Another good video on clothes
 
