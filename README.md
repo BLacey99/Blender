@@ -85,6 +85,8 @@ https://www.decorilla.com/online-decorating/interior-design-styles-101/
 <h2> SEAMS / UV Editing </h2>
 <div>
 https://www.youtube.com/watch?v=ZUgyjUo5vMM&ab_channel=BlenderSecrets
+https://youtu.be/PfIQxnRXNSo
+https://youtu.be/m8JkR6tI_q4
 </div>
 
 
@@ -201,7 +203,11 @@ https://youtu.be/ftVnP65K7lQ
 https://www.youtube.com/@WorldofLevelDesign
 https://youtu.be/8t0Q5fYT2ws
 https://youtu.be/nN-0XKz3HT4
-
+https://youtu.be/nGAwLwfA0gQ cyvber city
+https://youtu.be/sA4HcXec6rE
+https://youtu.be/yQO1S4Nq2Ic
+https://youtu.be/oFC_j_oPD44
+https://youtu.be/t5oDgIUDeSc - bar
 https://youtu.be/G3RGQSdoKdk FORKLIFT
 
 Look at common measurements for things like doorframes, height off ground for
@@ -216,8 +222,8 @@ https://youtu.be/Sgf_wZBr5gM
 https://youtu.be/RJ6zpJJ_6Hs
 https://www.youtube.com/@cg_cookie/videos
 https://youtu.be/1vc62llqnW8
-
-
+https://youtu.be/UUhdhRAvP_0 - mesh/link fencing and grates
+https://youtu.be/9Rt3pD1-6oY - bottles
 
 <h2> references and art board tools </h2>
 https://unsplash.com/
@@ -269,6 +275,7 @@ https://youtu.be/Cd4bw-BiaPM
 https://youtu.be/ecOUIdWRykg
 https://youtu.be/B_PRaIzavWU
 https://youtu.be/pT4Hwc2O3OA
+https://youtu.be/ZVB8P1bVID8
 
 <h2> Lighting </h2>
 https://youtu.be/oA-uLPzMilU
@@ -285,6 +292,7 @@ https://youtu.be/PF9h2panbSA
 <h2> Curves to meshes </h2>
 https://blender.stackexchange.com/questions/5623/what-is-the-fastest-way-to-create-a-curved-plane
 https://youtu.be/RmLtV6E2TsI?list=PL0LADxPpmXN6jgR3wLzPia4_64Hz4gE3H
+https://youtu.be/sow1Env7qJ0
 
 <h2> Trees </h2>
 https://youtu.be/G4VEHi3dI6w  (Very cool for rendered scenes)
@@ -293,6 +301,8 @@ https://youtu.be/72LPW4S8bns
 
 https://youtu.be/h6eYY6oQx44 Fast trees
 https://youtu.be/eBPTlK-8FPw
+  
+https://youtu.be/q-JmndpsSEo - really good trees
 
 <h2> Caves </h2>
 https://youtu.be/WdgM4jOfzTE
@@ -306,7 +316,8 @@ https://youtu.be/IFVZd3UttOU
 <h2> Render Ideas </h2>
 https://youtu.be/nAus-J-DzcE
 
-
+  <h2> Scifi </h2>
+  https://youtu.be/78X1eIXHG_M
 
 
 <h2> Rolling animations </h2>
