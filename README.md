@@ -284,7 +284,7 @@ https://youtu.be/PF9h2panbSA
 
 <h2> Curves to meshes </h2>
 https://blender.stackexchange.com/questions/5623/what-is-the-fastest-way-to-create-a-curved-plane
-
+https://youtu.be/RmLtV6E2TsI?list=PL0LADxPpmXN6jgR3wLzPia4_64Hz4gE3H
 
 <h2> Trees </h2>
 https://youtu.be/G4VEHi3dI6w  (Very cool for rendered scenes)
@@ -327,3 +327,10 @@ https://youtu.be/r8j4TsB6t_E
   Accent walls - First wall that comes into sight when entering a room, usually the wall a bed is against.
   Wood slat walls / Geometric walls
   
+
+<h2> Clothing </h2>
+https://youtu.be/X_2VlE3pL4c Good hoodie tutorial
+https://youtu.be/MS7kPLcsToo
+https://youtu.be/DRzT3c1jk14
+https://youtu.be/_QY12thfOPc
+https://youtu.be/l5JGZV_25A0 Important wraps
