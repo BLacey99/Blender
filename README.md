@@ -334,6 +334,7 @@ https://youtu.be/r8j4TsB6t_E
   https://www.youtube.com/@reynardlowell
   https://youtu.be/oA-uLPzMilU
   https://www.youtube.com/watch?v=qa8E0O0lwSQ&ab_channel=Balance%2BRhythm
+  https://youtu.be/4GknQnmzl90 Windows
   
   Accent walls - First wall that comes into sight when entering a room, usually the wall a bed is against.
   Wood slat walls / Geometric walls
@@ -345,3 +346,30 @@ https://youtu.be/MS7kPLcsToo
 https://youtu.be/DRzT3c1jk14
 https://youtu.be/_QY12thfOPc
 https://youtu.be/l5JGZV_25A0 Important wraps
+
+  <h2> Materials </h2>
+  https://youtu.be/dn-uqMBXMhg
+  
+  <h2> Topology / Retopology </h2>
+  https://youtu.be/ccUeoHwHu4s -- Square to circular edge loops / holes
+  https://youtu.be/D7iWcHmMh_k
+  https://youtu.be/ifXsjDwqXJ4 -- tri fill
+  https://youtu.be/ZuoduXSvojU
+  https://youtu.be/EqPVL1ewzng
+  https://youtu.be/oP2Bl97AVT0
+  https://youtu.be/v4K8I0gSIuQ
+  https://youtu.be/TSMARKpthhU
+
+  <h2> Curve Modeling </h2>
+  https://youtu.be/6MxVP-06Qt0 -- table w curves and spin tool
+  https://youtu.be/q4-T6yg9-u8
+  https://youtu.be/LpV6VO6WNMo -- Super useful for vertex gap to curved smooth surfaces like on knives or swords
+  https://youtu.be/Ho7MfAV3mGs
+  
+  <h1> Immediately helpful and important </h1>
+    https://youtu.be/thPB_835gk4 -- Very important ------------- Topology fix for booleans and hard surfaces ----------------------//////
+  https://youtu.be/BMf5oetpT4A -- Looptools to fix furniture curves, etc
+  https://youtu.be/2L8u3MMhBXs -- Right click  vertice and choose circle (useful hole maker)
+  
+  Orientations, same issue from yesterday. Global is default. But to do special movements without having to combine axi, use custom orientations like face orientation. Good for handles that are at an angle but
+  need to go straight down AT that angle.
