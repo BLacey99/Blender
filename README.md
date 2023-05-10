@@ -387,3 +387,13 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   Use this to make straps. Use bisect tool since doing in blender instead or knife tool. Dupe original mesh to preserve from destruction
   
   Alternative - snapping. clipping caused by too few polys, but also thickness needs to be positive instead of negative, and normals may need to be flipped. 
+  
+  https://youtu.be/iiTcw1IFJzE -- Best way w bisector?
+  
+  https://www.reddit.com/r/blenderhelp/comments/rvyyys/help_beginner_here_icing_doesnt_snap_to_donut/
+  https://www.reddit.com/r/blenderhelp/comments/wzzudj/why_is_snap_to_face_not_working_blender_guru/
+
+  
+  https://youtu.be/oYI9mnvImEw
+  
+  Black/white interior designs?
