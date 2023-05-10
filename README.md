@@ -379,3 +379,9 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   
   Orientations, same issue from yesterday. Global is default. But to do special movements without having to combine axi, use custom orientations like face orientation. Good for handles that are at an angle but
   need to go straight down AT that angle.
+
+  
+  
+  <h1> VERY IMPORTANT FOR STRAPS </h1>
+  https://youtu.be/4t2ZEsXEFv8
+  Use this to make straps
