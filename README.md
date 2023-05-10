@@ -422,3 +422,8 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   https://youtu.be/JMBMHSca_j0?t=3730 -- Specific timestamp for snapping tool and settings to keep object on surface. Maybe better way to do harnesses?
   
   https://youtu.be/f364ZfaIqio?list=PLN9m3FiWMyjpdxKaq8hSusO8S0YOxm_iq
+  
+  <h3> Lighting </h3>
+  https://youtu.be/f364ZfaIqio?list=PLN9m3FiWMyjpdxKaq8hSusO8S0YOxm_iq
+  https://youtu.be/rbyYvmykjQs
+  https://youtu.be/JE8NjtmXkPY
