@@ -410,6 +410,8 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   https://youtu.be/qgWMjCgPywo
   
   
+  arc beveling vs miter beveling for corners
+  
   https://youtu.be/TJcvPnFdckE?t=1197 -- Strap holes using 3 edge loops
   
   
