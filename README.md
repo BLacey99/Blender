@@ -418,6 +418,7 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   https://youtu.be/LkBSfC_KgVw
   Shrinkwrap using internal mesh and projection. Works best?
   
+  https://youtu.be/-0OAyzegJLY -- Best couch tutorial
   
   https://youtu.be/JMBMHSca_j0?t=3730 -- Specific timestamp for snapping tool and settings to keep object on surface. Maybe better way to do harnesses?
   
