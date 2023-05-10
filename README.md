@@ -384,4 +384,6 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   
   <h1> VERY IMPORTANT FOR STRAPS </h1>
   https://youtu.be/4t2ZEsXEFv8
-  Use this to make straps
+  Use this to make straps. Use bisect tool since doing in blender instead or knife tool. Dupe original mesh to preserve from destruction
+  
+  Alternative - snapping. clipping caused by too few polys, but also thickness needs to be positive instead of negative, and normals may need to be flipped. 
