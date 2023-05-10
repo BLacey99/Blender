@@ -400,3 +400,18 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   
   <h1> Good cloth video </h1>
   https://youtu.be/Jj5nXcq7enQ
+  https://youtu.be/PF9h2panbSA -- pillow deformation
+  
+  https://youtu.be/I7-z1bi_Epc -- Bend / curve modifiers for couches 
+  
+  Proportional edit and subdivide scaling to make cushion / mattress puffier without cloth modifier
+  
+  Use for motion camera capture 
+  https://youtu.be/qgWMjCgPywo
+  
+  
+  https://youtu.be/TJcvPnFdckE?t=1197 -- Strap holes using 3 edge loops
+  
+  
+  https://youtu.be/LkBSfC_KgVw
+  Shrinkwrap using internal mesh and projection. Works best?
