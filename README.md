@@ -428,3 +428,90 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   https://youtu.be/f364ZfaIqio?list=PLN9m3FiWMyjpdxKaq8hSusO8S0YOxm_iq
   https://youtu.be/rbyYvmykjQs
   https://youtu.be/JE8NjtmXkPY
+
+  
+  
+  CHIPSSSS
+  https://youtu.be/TgSwFLV4Mwg
+  
+  on bridge edge loops, can actually increase number of cuts to make higher poly
+  blend path / blend linear interpolation of shapes. changes smoothness on bridging
+  https://youtu.be/Ncc5_WsHcxA
+  
+  
+  Fences and grilles
+  https://youtu.be/hJL8Sn4IBzM
+  
+  Horns
+  https://youtu.be/5BXvwqVyCQw
+  
+  Bezier curve modeling. Ridiculously powerful
+  https://youtu.be/fVXA-7dTp-8
+  
+  Hardops / Boxcutter tutorial w arrays and speed workflow
+  https://youtu.be/V53eWerMBWk
+  
+  
+  Video for making grilles w/out array. Inset faces - edge loops - bridge pairs. 
+  https://youtu.be/MhY5YqAi4vg
+  https://youtu.be/MhY5YqAi4vg?t=202
+  
+  
+  Ray Tracing
+  https://youtu.be/gsZiJeaMO48
+  
+  
+  Amazing cloth modifier explained. Still relevant years later
+  https://youtu.be/rLuHr1unnyg
+  
+  https://youtu.be/MHBuYMNTsdc better blankets
+  
+  https://youtu.be/AgMDqCDzR74
+  
+  
+  Activate native tissue add on for blender. Use for hats
+  https://youtu.be/xQwi0CbCd9U
+  https://youtu.be/yLFtpt5Ducs shrinkwrapping packages
+  
+  
+  
+  https://youtu.be/CWbDYz8RW_s
+
+  
+  Useful for graph editing and lip sync resets. 
+  https://youtu.be/p02ozHB-tJI?t=479 
+  
+  Also very good for lip syncs
+  https://youtu.be/tE1peGgIh98
+  
+  <h1> Geometry nodes and baking textures for exports </h1>
+  Bake textures in blender to convert node data to usable data for other progams. Can export to unity this way.
+  https://youtu.be/x4mySebugl0
+  
+  Converting Geometry nodes to meshes for export
+  https://youtu.be/qrXZNG4yAa8
+  
+  Unity raytracing
+  https://youtu.be/iMhURxYsCSg
+  
+  
+  Lighting advice and optimization 
+  https://youtu.be/rtEoAuSAbLM
+  
+  
+  Thickened blankets and creasing on cloths
+  https://youtu.be/_mujk5ngcKs
+  
+  
+  Environment design and tips. Good exercises. Entire scenes of 1 shape.
+  https://youtu.be/mhvtuZIEV_Q
+  
+  https://youtu.be/37LVhP15zGw
+  
+  https://youtu.be/-_-SNug8VUA
+  
+  https://youtu.be/MsnOIXxQI4M
+  
+  
+  Main exercises - block out with one shape to start. Limit time to 30ish mins maybe.
+  Work with that space. Repeatedly make full renders doing this and observe.
