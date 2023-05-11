@@ -521,3 +521,6 @@ https://youtu.be/GyBsrDV4f5k?t=337
 
   
   Industrial style for cyberpunk themed builds. Cafe/bars
+
+  Feeling out rooms and design concepts
+  https://youtu.be/qfdXTNVojCc
