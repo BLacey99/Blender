@@ -515,3 +515,9 @@ https://youtu.be/l5JGZV_25A0 Important wraps
   
   Main exercises - block out with one shape to start. Limit time to 30ish mins maybe.
   Work with that space. Repeatedly make full renders doing this and observe.
+  
+  Timestamped advice on Scandinavian / modern styles
+https://youtu.be/GyBsrDV4f5k?t=337
+
+  
+  Industrial style for cyberpunk themed builds. Cafe/bars
