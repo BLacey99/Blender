@@ -524,3 +524,18 @@ https://youtu.be/GyBsrDV4f5k?t=337
 
   Feeling out rooms and design concepts
   https://youtu.be/qfdXTNVojCc
+  
+  
+  <h1> Sites </h1>
+  https://youtu.be/v8Gz-I6AUwc
+  https://www.cgarchitect.com/images
+  https://youtu.be/DJ8RSnozV0A -- camera shake
+  https://youtu.be/06_puGmTIko -- animation complex 
+  
+  https://youtu.be/MF70pAx0UX0 -- Inspiration
+  https://youtu.be/WY68vUpvCoc
+
+  
+  https://youtu.be/aO0eUnu0hO0 Ideas for geometry nodes on walls
+  
+  https://youtu.be/ZG_ZMnKzVTQ Cool fracture addon
