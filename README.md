@@ -539,3 +539,37 @@ https://youtu.be/GyBsrDV4f5k?t=337
   https://youtu.be/aO0eUnu0hO0 Ideas for geometry nodes on walls
   
   https://youtu.be/ZG_ZMnKzVTQ Cool fracture addon
+  
+  Armor
+  https://youtu.be/pqLKa8t4y-o
+https://youtu.be/n1HUn7KmNWw sub d sword
+  
+  https://youtu.be/Jk6m5cUWyw0?list=PLYKnBP50d35JsDpFN-FwbCEpcBx2CgCjB Interesting furniture modeling techniqques
+  https://youtu.be/v_ikG-u_6r0 building from image
+  https://youtu.be/ltl4fPfuXGQ - animation idles and watch the armor videos
+  Modular assets and rotatable objects
+  Brutalist architecture for cyber themes
+  
+  https://youtu.be/98FkRIbihyQ exercises
+  https://youtu.be/51SdWI-yof4
+  
+  
+  https://youtu.be/6wAAKPx4MWU Wraps
+  https://youtu.be/LkBSfC_KgVw same but better
+  
+  Object wraps https://youtu.be/l5JGZV_25A0
+  
+  
+  Procedural papers
+  https://youtu.be/6ZeHDmmBKYY
+  
+  Procedural Books
+  https://www.youtube.com/watch?v=b87TnwV1HHQ&ab_channel=CGMaterial
+  https://youtu.be/KJoVsEh2koI
+  https://youtu.be/_RgQjAXLZNg
+  https://www.youtube.com/watch?v=v5nbB8m64Zc&list=PLlBnZx8GTV0KQloMSqNReWef3ROxzbxEj&ab_channel=CGMaterial
+  
+  
+  https://youtu.be/iXvWIAZ6_Lc Leather
+  
+  
