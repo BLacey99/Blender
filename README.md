@@ -573,3 +573,24 @@ https://youtu.be/n1HUn7KmNWw sub d sword
   https://youtu.be/iXvWIAZ6_Lc Leather
   
   
+  <h1> Procedurals and asset library building </h1>
+  https://youtu.be/5B244CYX1Tw
+  https://youtu.be/0OsgS2JpM8k
+  https://youtu.be/Pt3-mHBCoQk IK Stuff
+  https://youtu.be/Cu5TozPfsD4 More IK
+  https://youtu.be/Xy6DHSEl5Cs
+  
+  https://youtu.be/DkA0A8tmbqE sub-division modeling
+  https://youtu.be/uIthYMgWM0Q dissolves
+  https://youtu.be/VPUKQvsGabE - super useful speed workflow tips
+  
+  https://youtu.be/CdYz9oLuAOI library building
+  https://youtu.be/8eNN2Ep3Rqs Neons
+  https://youtu.be/05HFa3jNBH0 -- scrolling signs, hexagon art from photos or videos, etc.
+  https://youtu.be/CzCVarzUuEc - Draped banners and flags for fair areas
+  
+  https://youtu.be/JjnyapZ_P-g - Good city tutorial
+  
+  
+  
+  https://www.artstation.com/artwork/0n93EV - useful ref for topology
