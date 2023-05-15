@@ -594,3 +594,31 @@ https://youtu.be/n1HUn7KmNWw sub d sword
   
   
   https://www.artstation.com/artwork/0n93EV - useful ref for topology
+
+  
+  
+  
+  <h3> TO DO </h3>
+  https://youtu.be/A3F9BTLSZEA
+  
+Portal sentry figurine, 3d print it?
+
+find furniture companies and model from their ideas
+
+drawabox
+
+Plushies
+
+cntrl L to link materials across multiple objects at once
+
+https://youtu.be/VPUKQvsGabE - HDRI Browser plugins
+
+
+
+Make asset browser library of all personal 
+Materials
+Models
+HDRIs
+Geo nodes if possible
+etc.
+Start modeling and building a furniture pack
