@@ -622,3 +622,62 @@ HDRIs
 Geo nodes if possible
 etc.
 Start modeling and building a furniture pack
+  
+  
+  
+  
+  Blender - objects - color - random 
+plushie model, blendshapes
+
+
+Shows how to do orthographic photos for references to switch cameras
+https://youtu.be/jcSDF917dBo
+
+
+Sub division surface is very useful for modeling out handles
+
+
+https://youtu.be/h3ouYgJ0hUk Blender camera work
+
+https://youtu.be/kbiMXiUz9cc trees and mushrooms
+
+https://youtu.be/OwTuGg-Ua1g use for sentry legs
+
+
+https://youtu.be/wMPkiKZloIQ -- useful for eye textures
+
+
+https://youtu.be/mJnOvrPQJZI procedural cloth details
+
+
+https://3d.homestyler.com/?spm=a1zmxy.20722057.0.0.6c4d783cnFaUib&lang=en_US
+
+Find furniture stores and styles and block out.
+
+
+
+https://youtu.be/MHBuYMNTsdc
+cloth hooks
+
+
+Artstation for ideas
+
+https://youtu.be/qs4QUGKm6XU Cell shader
+
+Winterspell
+
+Do new eye textures
+
+
+https://youtu.be/yz5WVZYEcGA -- Art block
+
+Limit yourself, set boundaries so there isn’t choice paralysis.
+
+Do renders, envision live in. Turn renders into worlds
+
+https://youtu.be/VEct8qwybXU
+
+https://youtu.be/cFXO-82Eodo
+
+
+https://youtu.be/NhM0IKVWR5o This guys world building series
