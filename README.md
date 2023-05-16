@@ -681,3 +681,36 @@ https://youtu.be/cFXO-82Eodo
 
 
 https://youtu.be/NhM0IKVWR5o This guys world building series
+  
+  
+  Design stuff
+  https://youtu.be/77tin1jEkS8
+  
+  https://youtu.be/mhvtuZIEV_Q
+  
+  https://youtu.be/emy3wjOHk3U
+  
+  https://youtu.be/adQAGP68_eI
+  
+  https://youtu.be/6uaJ0L4E390
+  
+  https://youtu.be/900jTbjdPzQ
+  
+  https://youtu.be/nr0FAhyeOOk
+  
+  https://youtu.be/HtSfCo6QFt4
+  
+  https://youtu.be/W5E5VnSavfU
+  
+  Critical giants has many good concept art videos
+  
+https://youtu.be/cFXO-82Eodo -- Priceless video on design of an environement
+  
+  https://youtu.be/ic4VR6Q3JS4 Dumb wiggle distraction
+  
+  
+  https://youtu.be/MHalbVXxHIE Faster caves
+  
+  https://youtu.be/PPGuat_2mKg Cool furniture speed model
+
+https://youtu.be/xSsav9wlDwI Eyes follow constraint instead of move with head
