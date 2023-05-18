@@ -714,3 +714,11 @@ https://youtu.be/cFXO-82Eodo -- Priceless video on design of an environement
   https://youtu.be/PPGuat_2mKg Cool furniture speed model
 
 https://youtu.be/xSsav9wlDwI Eyes follow constraint instead of move with head
+
+  
+  <h1>IK</h2>
+  https://youtu.be/TvIn150YBoI -- spine
+  
+  https://youtu.be/DzFpK5_eGwU -- fingers
+  
+  https://youtu.be/Xy6DHSEl5Cs -- tails
