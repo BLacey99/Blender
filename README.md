@@ -722,3 +722,98 @@ https://youtu.be/xSsav9wlDwI Eyes follow constraint instead of move with head
   https://youtu.be/DzFpK5_eGwU -- fingers
   
   https://youtu.be/Xy6DHSEl5Cs -- tails
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <h1> Art stuff</h1>
+  
+  we randomly pick 2 or 3 of those exercises to do for 10-15 minutes. This allows us to continue sharpening those skills, and helps us keep them sharp as we continue to move forwards. 
+
+
+Keep in mind that in that 10-15 minutes, you don't need to do a whole page of the given exercise - you merely do what you can in that time period. You can also choose to spread a page across multiple sittings, picking the same exercise across a few sittings until the page is done. All that matters is that you continue practicing regularly, and that none of the exercises get abandoned.
+
+
+Ellipses - 
+
+Degree - How the ellipse is rotated relative to the viewer determines the 
+width from the viewers point of view. The width is called the degree.
+At its widest, 90 degrees. Meaning a circle. As the circle turns away,
+the degree of it will eventually reach 0 meaning the ellipse is facing away
+from the viewer.
+
+Since the relationship is based on the direction the circle faces, as well as 
+the direction the viewer is facing, the degree will change from the circle
+being moved around in space. This doesn't mean its being rotated necessarily.
+^^^ IMPORTANT TO REMEMBER ^^^
+This concept of the ellipse moving but not rotating, causing a change in the
+degree relative to the viewer, is called degree shift. This is how you specify
+that the ellipse is not rotating when describing it, but instead moving.
+
+
+The line that passes across the ellipse's narrowest span and through 
+its center is named the minor axis. Minor axis cuts ellipse in two
+symmetrical and equal halves. Major axis is perpendicular to minor axis,
+running across the widest span.
+
+
+
+Normal Vector - 
+
+Minor axis is useful because it coincides and aligns with the normal vector.
+Normal vector shoots from the surface of the 3d circle and is completely
+perpendicular to the surface. Think transform tools from 3d software, the 
+RGB arrows.
+
+
+
+Degree (width) controls circle's rotation
+
+Minor axis controls orientation of circles normal vector. AKA what direction
+the circle is facing.
+
+
+
+If we need our circle to be oriented in a specific way in a more complicated scene, we will actually be able to start out with a normal vector line, then use it as the minor axis for our ellipse, drawing the ellipse around it so the line splits it into two equal, symmetrical halves, down its narrowest span.
+
+
+Cylinders --
+
+minor axis / normal vector useful for cylindrical forms. Servers as a spine.
+
+Ends of cylinder share same normal vector in 3d, and minor axis in 2d
+but more than just the ends. Any cross sectional slice along the length
+of the cylinder also aligns to the same minor axis / normal vector.
+
+
+
+Story writing / Find voices / Write as unfolds
+
+
+Google streetview for perspective drawing practice
+
+To do non-angled objects such as cylinders or plates, use vanishing
+points and draw box around, then form the rounds as needed
+Drawing ellipses in boxes is literally teaching you to do this.
+
+
+Drawlikeasir youtube courses
+
+Drawing resources for perspective
+https://youtu.be/rFFX4R0lyv4
+https://youtu.be/XhDWiPARouY
+
+
+https://youtu.be/qrXZNG4yAa8
+https://youtu.be/A0MD_pB7LQ0
+https://youtu.be/uslTaqiv_7k
