@@ -817,3 +817,18 @@ https://youtu.be/XhDWiPARouY
 https://youtu.be/qrXZNG4yAa8
 https://youtu.be/A0MD_pB7LQ0
 https://youtu.be/uslTaqiv_7k
+  
+  
+  
+  
+  
+  
+  
+  Body 
+https://youtu.be/mT9Vbb7WDMo
+
+Proportion work. Notes.
+
+https://youtu.be/uDqjIdI4bF4
+  
+  https://imgur.com/a/EZPc28m
