@@ -832,3 +832,43 @@ Proportion work. Notes.
 https://youtu.be/uDqjIdI4bF4
   
   https://imgur.com/a/EZPc28m
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <h1> Side Notes </h1>
+  azuma house
+scandinavian
+
+home decorating reddit
+
+arches
+
+
+storage surrounding couch instead of tables
+
+
+white and dark colors to contrast
+
+sparse wood
+
+plants and unique lighting/chandeliers
+
+https://www.reddit.com/r/HomeDecorating/comments/140xbxq/initially_i_plan_to_choose_this_kinda_color_theme/
+
+curves and depth. Storage built into walls adds depth too
+
+https://www.drivenbydecor.com/20-rule-of-thumb-measurements-for/
+
+
+https://preview.redd.it/z6gkvolmjuja1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=6ca3398a1e6d29dfd680d50875231cb2fbf52735
+
+https://oneirosvr.com/download/
+
+
